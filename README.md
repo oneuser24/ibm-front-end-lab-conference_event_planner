@@ -12,7 +12,7 @@ Forked from [ibm-developer-skills-network](https://github.com/ibm-developer-skil
 
 ## Project tasks
 1. Setup the project environment
-2. Review the structure of the ```**ConferenceEvent.jsx**``` component
+2. Review the structure of the **```ConferenceEvent.jsx```** component
 3. Review the code for the venue module
 4. Combine Redux with components to manage updates and state changes
 5. Add logic to calculate subtotals and total cost
